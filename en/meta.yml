@@ -1,9 +1,9 @@
-title: Posotionin
+title: z-index
 hero_image: images/banner.png
-description: Sizing elements relative to the viewport size
+description: z-index
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Sizing elements relative to the viewport size
+  - title: z-index
