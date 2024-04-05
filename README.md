@@ -1,3 +1,6 @@
+# Attribution
+<a href="https://www.vecteezy.com/free-vector/smartphone">Smartphone Vectors by Vecteezy</a>
+
 # default-project-template
 
 ![default-project-template](banner.png)
